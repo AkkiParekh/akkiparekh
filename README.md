@@ -30,7 +30,9 @@ I'm Ankit Parekh - aka [Akki]
 
 I'm a programmer living in Mumbai, IN. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Mumbai, drop an email and let's catch-up over Coffee!
  
- ### Languages and Tools:
+<br />
+
+### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -51,6 +53,8 @@ I'm a programmer living in Mumbai, IN. Outside Tech, I love to read, enjoy music
 
 <br />
 <br />
+
+---
 
 - Check out my Resume: [https://akkiparekh.github.io/CV/)
 - Write to me: [WriteTo@ankit77parekh@gmail.com](ankit77parekh@gmail.com)
