@@ -4,7 +4,7 @@
 
 <h2>Hey! 👋</h2>
 
-I'm Ankit Parekh - aka [Akki]
+I'm Ankit Parekh
 - <i>Currently:</i> working as Frontend Architect | Programmer. 
 - <i>Previously:</i> Frontend Manager at Codifyd Inc.
 
